@@ -23,7 +23,7 @@
 , "engines" : { "node" : ">=0.1.101" }
 , "dependencies" :
     { "express" : "=1.0.0rc3"
-    , "connect" : "=0.2.5"
+    , "connect" : "=3.0.0"
     , "jade" : "=0.5.0"
     }
 , "licenses" :
