@@ -23,7 +23,7 @@
 , "engines" : { "node" : ">=0.1.101" }
 , "dependencies" :
 
-    { "express" : "=4.19.2"
+    { "express" : "=4.20.0"
     , "connect" : "=3.0.0"
     , "jade" : "=0.5.0"
     }
